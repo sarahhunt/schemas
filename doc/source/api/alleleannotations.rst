@@ -17,6 +17,7 @@ This API supports the mining of variant annotations by region or genomic feature
 and the filtering of the results by predicted functional effect.
 
 The model has the following data types:
+
 ==================================== =======================================================================
 Record	                             | Description
 ==================================== =======================================================================
