@@ -169,6 +169,8 @@ record FeaturePhenotypeAssociation {
   */
   array<EnvironmentalContext> environmentalContexts;
 
+  /** Remaining structured metadata key-value pairs. */
+  map<array<string>> info = {};
 }
 
 
